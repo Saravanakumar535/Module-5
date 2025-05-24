@@ -30,7 +30,7 @@ class Person:
     def __init__(self, personName, personAge):  
         self.name = personName  
         self.age = personAge  
-  
+   
     #defining class methods  
     def showName(self):  
         print(self.name)  
